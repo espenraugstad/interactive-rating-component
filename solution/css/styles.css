@@ -117,7 +117,7 @@ button:hover{
 }
 
 #thank-you-illustration{
-    /* align-self: center; */
+    
     padding: 15px 0 30px 0;
 }
 
@@ -126,19 +126,16 @@ button:hover{
     background-color: var(--dark-blue);
     font-size: 15px;
     height: 35px;
-    /* padding: 10px 20px; */
     width: 190px;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 40px;
-    /* align-self: center; */
 }
 
 #thank-you-p{
     font-size: 15px;
-    /* align-self: center; */
     text-align: center;
     width: 340px;
     
